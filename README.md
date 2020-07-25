@@ -28,4 +28,7 @@ React notes app that allows users to create, delete, and list notes.
 
 [aws](https://aws.amazon.com/getting-started/learning-path-front-end-developer/?e=gs2020&p=gsrc)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 135fea7b63cb7eb5072a1863dda364f56ebf0f3f
